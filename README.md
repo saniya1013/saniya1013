@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=06B6D4&height=200&section=header&text=Saniya&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2563EB&height=200&section=header&text=Saniya&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 - 🧠 **AI Core**: Real-time summaries and analysis via Llama 3.1.
-- 🎨 **Visuals**: Modern Cyan-Blue design system with glassmorphism.
+- 🎨 **Visuals**: Modern Blue-Cyan design system with glassmorphism.
 - 🕒 **History**: Persistent tracking for a seamless reading journey.
 
 👉 **[Explore the Repository](https://github.com/saniya1013/pagehaven-digital-library)**
@@ -40,8 +40,8 @@
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saniya1013&show_icons=true&theme=transparent&title_color=06B6D4&icon_color=2563EB&text_color=1F2937&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya1013&layout=compact&theme=transparent&title_color=06B6D4&text_color=1F2937&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saniya1013&show_icons=true&theme=transparent&title_color=2563EB&icon_color=06B6D4&text_color=1F2937&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniya1013&layout=compact&theme=transparent&title_color=2563EB&text_color=1F2937&hide_border=true" width="45%" />
 </p>
 
 ---
@@ -61,5 +61,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%" />
 </p>
